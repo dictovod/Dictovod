@@ -1,0 +1,39 @@
+{
+  "name": "dictovod",
+  "version": "1.0.0",
+  "description": "Desktop application for WordPress site dictovod.ru",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --ia32",
+    "package": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^25.0.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.dictovod.app",
+    "productName": "Dictovod",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64",
+            "ia32"
+          ]
+        }
+      ],
+      "icon": "build/icon.ico"
+    }
+  },
+  "author": "lp85d",
+  "license": "MIT"
+}
