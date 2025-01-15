@@ -4,16 +4,19 @@ let mainWindow;
 
 app.on('ready', () => {
   mainWindow = new BrowserWindow({
-    width: 1280,
-    height: 800,
+    width: 420, // Ширина с учетом границ
+    height: 500, // Высота с запасом для содержимого
+    resizable: false, // Отключаем изменение размера окна
     webPreferences: {
       nodeIntegration: false,
+      contextIsolation: true, // Для повышения безопасности
     },
   });
 
-  // Загрузите ваш сайт
-  mainWindow.loadURL('https://dictovod.ru');
+  // Загрузите страницу с плагином
+  mainWindow.loadURL('https://dictovod.ru/hello/');
 
+  // Закройте приложение при закрытии окна
   mainWindow.on('closed', () => {
     mainWindow = null;
   });
