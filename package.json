@@ -1,11 +1,11 @@
 {
   "name": "dictovod",
   "version": "1.0.0",
-  "description": "Desktop application for WordPress site dictovod.ru",
+  "description": "Desktop application for WordPress page dictovod.ru/hello/",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-builder --ia32",
+    "build": "electron-builder --ia32 --x64",
     "package": "electron-builder"
   },
   "devDependencies": {
@@ -32,6 +32,10 @@
         }
       ],
       "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
     }
   },
   "author": "lp85d",
