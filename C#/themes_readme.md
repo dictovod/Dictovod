@@ -170,3 +170,4 @@
 ---
 
 **Приятной кастомизации!** 🎨✨
+<img width="423" height="299" alt="изображение" src="https://github.com/user-attachments/assets/f1b8a1d3-5684-4cd2-af4e-038e54cac03c" />
