@@ -1,0 +1,20 @@
+{
+  "Name": "Retro",
+  "Version": "1.0",
+  "BackgroundColor": "#000080",
+  "ButtonColor": "#0000aa",
+  "SuccessColor": "#00aa00",
+  "DangerColor": "#aa0000",
+  "TextColor": "#aaaaaa",
+  "StatusTextColor": "#55ffff",
+  "FontFamily": "Courier New",
+  "FontSize": 9.0,
+  "WindowWidth": 160,
+  "WindowHeight": 65,
+  "ButtonSize": 20,
+  "TopPanelHeight": 20,
+  "PlaySymbol": ">",
+  "PauseSymbol": "||",
+  "MenuSymbol": "=",
+  "CloseSymbol": "X"
+}

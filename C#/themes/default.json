@@ -1,0 +1,20 @@
+{
+  "Name": "Default",
+  "Version": "1.0",
+  "BackgroundColor": "#d3d7cf",
+  "ButtonColor": "#8fa8b3",
+  "SuccessColor": "#a9cba4",
+  "DangerColor": "#cc6666",
+  "TextColor": "#000000",
+  "StatusTextColor": "#00008B",
+  "FontFamily": "Courier",
+  "FontSize": 8.0,
+  "WindowWidth": 160,
+  "WindowHeight": 65,
+  "ButtonSize": 20,
+  "TopPanelHeight": 20,
+  "PlaySymbol": "▶",
+  "PauseSymbol": "⏸",
+  "MenuSymbol": "☰",
+  "CloseSymbol": "✖"
+}

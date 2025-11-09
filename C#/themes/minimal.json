@@ -1,0 +1,20 @@
+{
+  "Name": "Minimal",
+  "Version": "1.0",
+  "BackgroundColor": "#ffffff",
+  "ButtonColor": "#e0e0e0",
+  "SuccessColor": "#90ee90",
+  "DangerColor": "#ffb3b3",
+  "TextColor": "#333333",
+  "StatusTextColor": "#666666",
+  "FontFamily": "Arial",
+  "FontSize": 8.0,
+  "WindowWidth": 160,
+  "WindowHeight": 65,
+  "ButtonSize": 20,
+  "TopPanelHeight": 20,
+  "PlaySymbol": "►",
+  "PauseSymbol": "❚❚",
+  "MenuSymbol": "≡",
+  "CloseSymbol": "×"
+}
