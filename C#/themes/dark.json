@@ -16,5 +16,15 @@
   "PlaySymbol": "▶",
   "PauseSymbol": "⏸",
   "MenuSymbol": "☰",
-  "CloseSymbol": "✖"
+  "CloseSymbol": "✖",
+  "OverlayWidth": 600,
+  "OverlayHeight": 60,
+  "OverlayPosition": "bottom",
+  "OverlayOffsetX": 300,
+  "OverlayOffsetY": 50,
+  "OverlayTextColor": "#64b5f6",
+  "OverlayBackgroundColor": "#e0000000",
+  "OverlayFontFamily": "Consolas",
+  "OverlayFontSize": 16.0,
+  "OverlayDuration": 3000
 }
