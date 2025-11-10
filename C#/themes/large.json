@@ -16,5 +16,15 @@
   "PlaySymbol": "▶",
   "PauseSymbol": "⏸",
   "MenuSymbol": "☰",
-  "CloseSymbol": "✖"
+  "CloseSymbol": "✖",
+  "OverlayWidth": 1200,
+  "OverlayHeight": 120,
+  "OverlayPosition": "top",
+  "OverlayOffsetX": 0,
+  "OverlayOffsetY": 10,
+  "OverlayTextColor": "#000000",
+  "OverlayBackgroundColor": "#e0ffeb3b",
+  "OverlayFontFamily": "Arial",
+  "OverlayFontSize": 28.0,
+  "OverlayDuration": 6000
 }
