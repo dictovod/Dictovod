@@ -16,5 +16,15 @@
   "PlaySymbol": ">",
   "PauseSymbol": "||",
   "MenuSymbol": "=",
-  "CloseSymbol": "X"
+  "CloseSymbol": "X",
+  "OverlayWidth": 700,
+  "OverlayHeight": 50,
+  "OverlayPosition": "top",
+  "OverlayOffsetX": -400,
+  "OverlayOffsetY": 10,
+  "OverlayTextColor": "#55ffff",
+  "OverlayBackgroundColor": "#d0000080",
+  "OverlayFontFamily": "Courier New",
+  "OverlayFontSize": 14.0,
+  "OverlayDuration": 6000
 }
