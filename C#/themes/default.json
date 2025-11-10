@@ -16,5 +16,15 @@
   "PlaySymbol": "▶",
   "PauseSymbol": "⏸",
   "MenuSymbol": "☰",
-  "CloseSymbol": "✖"
+  "CloseSymbol": "✖",
+  "OverlayWidth": 1000,
+  "OverlayHeight": 80,
+  "OverlayPosition": "top",
+  "OverlayOffsetX": 0,
+  "OverlayOffsetY": 5,
+  "OverlayTextColor": "#ffffff",
+  "OverlayBackgroundColor": "#c8000000",
+  "OverlayFontFamily": "Segoe UI",
+  "OverlayFontSize": 18.0,
+  "OverlayDuration": 4000
 }
